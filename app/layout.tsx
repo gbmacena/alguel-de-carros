@@ -1,6 +1,6 @@
 import "./globals.css";
 import Footer from "@/components/Footer";
-import NavBar from "@/components/NavBar";
+import NavBar from "@/components/Navbar";
 
 export const metadata = {
   title: "Car Hub",
